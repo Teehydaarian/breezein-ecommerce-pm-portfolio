@@ -1,6 +1,6 @@
 # BreezeIn E-Commerce Launch - PM Portfolio Project
 
-> A complete project management portfolio covering the planning, execution, monitoring and close-out of a 90-day e-commerce website launch for a fictional startup retailer, BreezeInShop Ltd.
+> A complete project management portfolio covering the planning, execution, monitoring and close-out of a 90-day e-commerce website launch for a startup retailer, BreezeInShop Ltd.
 
 **Project Manager:** Taiwo Ademeko  
 **Qualification:** Tritek Academy - Project Management and Business Analytics  
