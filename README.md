@@ -14,7 +14,7 @@
 
 I built this project to show that I can manage a project from start to finish - not just talk about it.
 
-BreezeIn is fictional. The work behind it is not.
+The work behind this is not fictional
 
 Every presentation, every document, every risk entry, and every decision in this repository reflects how a project manager actually operates week by week. If you are a hiring manager, this is not just proof that I know what a risk register is. It is proof that I know how to keep one updated across 15 weeks while things are constantly changing around it.
 
@@ -24,7 +24,7 @@ Every presentation, every document, every risk entry, and every decision in this
 
 | Item | Detail |
 |------|--------|
-| **Client** | BreezeInShop Ltd. - fictional startup retailer |
+| **Client** | BreezeInShop Ltd. - startup retailer |
 | **Project** | E-commerce website - design, build, test and launch |
 | **Platform** | Shopify CMS |
 | **Team Size** | 8 members across 4 departments |
