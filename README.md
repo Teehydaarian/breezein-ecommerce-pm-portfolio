@@ -155,6 +155,5 @@ breezein-ecommerce-pm-portfolio/
 
 **Taiwo Ademeko**  
 Project Management and Business Analytics  
-Tritek Academy Graduate  
-[your email here]  
-[your LinkedIn URL here]
++447429416634  
+(https://www.linkedin.com/in/taiwo-ademeko-4b4b27361/)
